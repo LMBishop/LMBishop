@@ -2,7 +2,7 @@
 
 ### Hello! 🎉
 
-I'm **Leonardo**, a hobbyist programmer based in the United Kingdom.
+I'm **Leonardo**, a programmer based in the United Kingdom.
 
 I'm currently completing a degree in Computer Science at university, 
 and I like to spend some of free time working on projects like
